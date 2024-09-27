@@ -80,7 +80,7 @@
 // filter() -> crea un nuevo array a partir de otro array (la diferencia es que filter devuelve un array con los elementos que cumplen la condición)
 // let numbers = [1,2,11,3,4,5,6,7,8,9];
 // let newNumbers = numbers.filter(number => {
-//     return number > 5;
+//     return number > 5; 
 // });
 // console.log(newNumbers);
 
